@@ -1,7 +1,7 @@
 import telebot
 from googletrans import Translator
 
-BOT_TOKEN = "BU_YERGA_TOKENINGIZNI_QOYING"
+BOT_TOKEN = "8826567637:AAG-6-o-a0svdIvfDMZdg64kWhF2iH3f03A"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 translator = Translator()
